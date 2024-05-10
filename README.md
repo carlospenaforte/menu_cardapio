@@ -1,2 +1,2 @@
-# project_menu
+# PROJECT MENU
  A menu project with HTML and CSS
